@@ -10,3 +10,6 @@ type 'python "main.py"' if your using python verion 2.7 or 'python3 "main.py"' i
 
 Features removed:
 - I removed the link to the database since i didnt want it to be public, im providing sorce code and its pretty easy to add your own database.
+
+Warnings
+- the apk may not work on your device, this apk was tested on a samsung a20e phone
